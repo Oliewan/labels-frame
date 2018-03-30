@@ -1,0 +1,124 @@
+  
+= ----- 2015/2/1 星期日 下午 15:57:38
+= MRDCL version 2011.1 Startup
+= E:\快决测\工具\SPSS标签&框架\stp\table.stp
+= Copyright 1990 - 2009 MRDC Software, Kent, England
+  CEP
+  CSV 2002 style
+  NOLSUM
+  OLDNAMES
+  OLDWQ
+  TIDY
+  C(A)=E:\快决测\工具\SPSS标签&框架\stp\TEST.DAT
+  OUTPUT=..\OUTPUT\XXXXX.TAB
+  CHARSET=DOUBLE
+= MRDCL version 2011.1 startup completed
+  
+= ----- 2015/2/1 星期日 下午 15:57:38
+= MRDCL compilation phase startup
+  Starting compilation
+= Stage 1 (data)
+>>MRDCL 2011.1 Error number 0117
+>>The following file is empty.
+>>E:\快决测\工具\SPSS标签&框架\stp\define.stp
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 302 Variable referenced before definition
+>>F 542 Wrong number of items in text
+>>F 302 Variable referenced before definition
+>>F 542 Wrong number of items in text
+>>F 311 Reference to variable value out of range
+>>F 542 Wrong number of items in text
+>>F 311 Reference to variable value out of range
+>>MRDCL 2011.1 Error number 0306
+>>Faulty use of PP loop command or loop level faulty.
+>>*DO
+>>The last few characters parsed by PP were {**mmmmm<c><S>',[*data B1R(;)=][*set Q='B1']dm $t[Q]=$[Q]/[*do i=1:[[Q]R --> B1 <-- .#]/ --> 1 <-- 2]}
+>>Error occurred at line 76, position 33 in stub.stp
+>>      Called from line 20, position 16 in E:\快决测\工具\SPSS标签&框架\stp\table.stp
+  PP values are as follows
+   Entered PP code at line 76, position 14 in stub.stp
+   Entered command at line 76, position 24 in stub.stp
+   *DO i, current time round is 1, started in substituted text at position 0
+   ttl is a data set with 19 items
+   i = 1
+   a is NULL
+   S1R is a data set with 19 items
+   Q = "B1"
+   S2R is a data set with 7 items
+   S3R is a data set with 15 items
+   S4R is a data set with 19 items
+   B1R is a data set with 1 items
+= MRDCL compilation phase completed
+>>CL run failed and aborted
+  
+= ----- 2015/2/1 星期日 下午 15:57:38

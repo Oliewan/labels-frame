@@ -1,0 +1,12 @@
+
+[*data 999(m=p,t=;)=
+1;t;All Respondents
+        
+]    
+[*do i=1:[999.#]:3][*set BaseNo=999.i]
+    ds $bb[BaseNo]=[999.i+1],
+    x  $bb[BaseNo]='Base [BaseNo] - [999.i+2]',
+    xt $bb[BaseNo]='Base [BaseNo] - [999.i+2]',
+
+    [*set Base[BaseNo]='[999.i+2]']
+[*end i]
