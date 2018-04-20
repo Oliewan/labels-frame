@@ -1,0 +1,449 @@
+
+Project Sheet1
+
+
+Table AGEA1
+(AGE)Please type in your age. 请输入您的年龄
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+18 to 24 18-24岁                    31
+                                   9.0
+25 to 29 25-29岁                    42
+                                  12.2
+30 to 34 30-34岁                    35
+                                  10.1
+35 to 39 35-39岁                    51
+                                  14.8
+40 to 44 40-44岁                    68
+                                  19.7
+45 to 50 45-50岁                   118
+                                  34.2
+
+Project Sheet1
+
+
+Table Q0A1
+(Q0)First of all, we would like to know your leisure time activities. Have you ever been to below places? (MA)首先我们想了解一下您的休闲娱乐情况。请问您休闲时间是否曾经去过以下场所？（复选）
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+Amusement/ Theme
+park 大型游乐园/主题乐园            71
+                                  20.6
+Café 咖啡厅                        83
+                                  24.1
+Cinema 电影院                      171
+                                  49.6
+Theatre 剧院                        41
+                                  11.9
+Museum Museum
+博物馆/艺术馆                       68
+                                  19.7
+KTV KTV KTV场所                    127
+                                  36.8
+Gym Gym 健身房                      69
+                                  20.0
+Beach 海滩                          87
+                                  25.2
+Botanic garden 植物园              103
+                                  29.9
+Aquarium 海洋馆                     54
+                                  15.7
+None of above (EXCLUSIVE)
+以上均无 （排他）                   40
+                                  11.6
+
+Project Sheet1
+
+
+Table BE2A01A1
+(BE2A01)Please select all the brands of theme park you have ever heard of, even if you’re not very familiar with them. 您曾经听说过以下哪些游乐园/主题乐园呢？请选出所有您知道的品牌，即使您并不熟悉这些品牌也不要紧。
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+Shanghai Disney
+Resort 上海迪士尼度假区            270
+                                  78.3
+Happy Valley 欢乐谷                231
+                                  67.0
+Chimelong Resorts
+长隆旅游度假区
+（广州、珠海）                      77
+                                  22.3
+Fantawild Adventure
+方特欢乐世界                        68
+                                  19.7
+Wanda Theme park
+ 万达主题乐园（南昌、
+西双版纳、合肥、哈尔滨）            57
+                                  16.5
+Shanghai Haichang Ocean
+Park 上海海昌海洋公园               73
+                                  21.2
+Never heard of
+any of these 从来没有
+听说过以上任何游乐园/
+主题乐园                            20
+                                   5.8
+
+Project Sheet1
+
+
+Table BE2A02A1
+(BE2A02)Please select all the brands of theme park you have ever VISITED. 请问您曾经去过以下哪些国内的游乐园/主题乐园?
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+Shanghai Disney
+Resort 上海迪士尼度假区             48
+                                  13.9
+Happy Valley 欢乐谷                 45
+                                  13.0
+Chimelong Resorts
+长隆旅游度假区
+（广州、珠海）                       8
+                                   2.3
+Fantawild Adventure
+方特欢乐世界                        12
+                                   3.5
+Wanda Theme park
+ 万达主题乐园（南昌、
+西双版纳、合肥、哈尔滨）             2
+                                    .6
+Shanghai Haichang Ocean
+Park 上海海昌海洋公园                -
+                                     -
+Never visited
+any of these  以上皆无               7
+                                   2.0
+Missing                            275
+                                  79.7
+
+Project Sheet1
+
+
+Table BE2A03A1
+(BE2A03)Please select all the brands of theme park you ever visited in the P12M. 请选出所有您在过去12个月内去过的游乐园/主题乐园。
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+Shanghai Disney
+Resort 上海迪士尼度假区             38
+                                  11.0
+Happy Valley 欢乐谷                 25
+                                   7.2
+Chimelong Resorts
+长隆旅游度假区
+（广州、珠海）                       1
+                                    .3
+Fantawild Adventure
+方特欢乐世界                         9
+                                   2.6
+Wanda Theme park
+ 万达主题乐园（南昌、
+西双版纳、合肥、哈尔滨）             -
+                                     -
+Shanghai Haichang Ocean
+Park 上海海昌海洋公园                -
+                                     -
+Never visited
+any of these in P12M
+过去12个月内都没有去过              10
+                                   2.9
+Missing                            282
+                                  81.7
+
+Project Sheet1
+
+
+Table BE3A1
+(BE3)How likely are you to visit Shanghai Disney Resort in the next 12 months when you plan to VISIT AN AMUSEMENT PARK/THEME PARK? 当您在未来12个月内计划去游乐园/主题乐园时，您考虑上海迪士尼度假区的可能性是怎样的?
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+I would definitely
+visit it 我一定会去                 68
+                                  19.7
+I am very likely to
+visit it 我非常有可能去             42
+                                  12.2
+I possibly would
+visit it 我可能会去                115
+                                  33.3
+I am not very likely
+to visit it 我可能不会去            34
+                                   9.9
+I would definitely
+not visit it 我一定不会去           11
+                                   3.2
+Missing                             75
+                                  21.7
+
+Project Sheet1
+
+
+Table POP1A1
+(POP1)When do you plan to visit SHDR? 您刚刚提到您会去上海迪士尼度假区，请问您计划什么时候去？（单选）
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+最近1个月内
+Within one month                    18
+                                   5.2
+1-3个月内 Between
+1-3 months                          35
+                                  10.1
+3-6个月内 Between
+3-6 months                          42
+                                  12.2
+6-12个月内 Between
+6-12 months                         64
+                                  18.6
+12个月以后 In 12
+months or later                     11
+                                   3.2
+还不确定 Not sure yet               55
+                                  15.9
+Missing                            120
+                                  34.8
+
+Project Sheet1
+
+
+Table Q5DA1
+(Q5d)You just said you have been to SHDR, please recall which one of below attractions is your favorite? (2 options)您提到曾经去过上海迪士尼度假区，请问您最喜欢以下哪项设施呢？您可以最多选择2个设施。 (最多选两项)
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+Ferris Wheel 摩天轮                 20
+                                   5.8
+Carousel  旋转木马                   8
+                                   2.3
+Soaring 翱翔?飞越地平线             11
+                                   3.2
+Mine Train
+七个小矮人矿山车                    12
+                                   3.5
+Tron 创极速光轮                     15
+                                   4.3
+Pirates
+加勒比海盗沉落宝藏之战              16
+                                   4.6
+Others 其他
+（固定在倒数第二）                   1
+                                    .3
+None of above
+以上均无（排他）                     -
+                                     -
+Missing                            297
+                                  86.1
+
+Project Sheet1
+
+
+Table NEWS1A1
+(NEWS1)Have you heard of any of below news about SHDR? (MA) 请问您是否在任何地方听说过有关上海迪士尼乐园的以下消息呢？（多选）
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+New area (Disney.Pixels
+Toy Story) will open
+before summer 2018 新园
+区（迪士尼?皮克斯玩具总动
+园）将于2018年夏季前开幕            52
+                                  15.1
+New SS Pass
+is on sale in March
+新一季春夏季卡3月发售               36
+                                  10.4
+New pricing will
+be applied in June 2018
+2018年6月初将实行新的票价           76
+                                  22.0
+Half-price campaign
+on 8th March
+3月8日的半价活动                    44
+                                  12.8
+Spring campaign
+春季的主题活动                      37
+                                  10.7
+None of above
+都不知道 (排他)                    105
+                                  30.4
+Missing                             75
+                                  21.7
+
+Project Sheet1
+
+
+Table GENDERA1
+(GENDER)Are you…?(OCO) 请问您的性别是…?(单选)
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+Male 男性                          171
+                                  49.6
+Female 女性                        174
+                                  50.4
+
+Project Sheet1
+
+
+Table INCOMEA1
+(INCOME)Which of these income bands does your gross monthly household income fit into?  By gross, this means before tax, including bonus, salary and allowance, etc.
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+Lower than RMB
+5,000 人民币5,000元以下            125
+                                  36.2
+RMB 5,000 to 7,
+999 人民币5,000-7,999               74
+                                  21.4
+RMB 8,000 to 9,
+999 人民币8,000-9,999               41
+                                  11.9
+RMB 10,000 to 11,
+999 人民币10,000-11,999             41
+                                  11.9
+RMB 12,000 to 14,
+999 人民币12,000-14,999             18
+                                   5.2
+RMB 15,000 -15999
+人民币 15,000-15,999                15
+                                   4.3
+RMB 16,000-19,
+999 人民币16,000-19,999              9
+                                   2.6
+RMB 20,000-24,
+999 人民币20,000-24,999              4
+                                   1.2
+RMB 25,000 and
+above 人民币25,000 或以上           18
+                                   5.2
+
+Project Sheet1
+
+
+Table LOCALRES
+(LOCALRES)How long have you lived in this city?（OCO） 请问您在本市连续居住了多长时间？（单选）
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+More than two
+years 两年以上                     284
+                                  82.3
+One to two years
+  一到两年                          14
+                                   4.1
+Less than one
+year一年以下                        47
+                                  13.6
+
+Project Sheet1
+
+
+Table QMSTAA1
+(QMSTA)Which of these statements best applies to you now?(OCO) 请问以下哪一项最适合描述您目前的情况呢？(单选)
+by Header A
+Base: value1.All Respondents
+
+                              Total
+                          ------------
+                                   (a)
+
+总体                               345
+                                 100.0
+Single单身                          67
+                                  19.4
+Married with
+kids已婚 – 有孩子                 241
+                                  69.9
+Married no
+kids已婚– 没孩子                   14
+                                   4.1
+Divorced / Separated with
+kids离婚 / 分居– 有孩子            15
+                                   4.3
+Divorced / Separated no
+kids离婚 / 分居 -没孩子              3
+                                    .9
+Widowed with
+kids丧偶– 有孩子                    4
+                                   1.2
+Widowed no
+kids丧偶 -没孩子                     1
+                                    .3

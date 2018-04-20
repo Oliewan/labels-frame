@@ -1,6 +1,10 @@
 
 [*data 999(m=p,t=;)=
-1;t;All Respondents
+1;t;All Respondents;
+2;$q0/1.$BE2A01/N98;Heard one or more of these;
+3;$BE2A01/1;Heard Shanghai Disney Resort;
+4;$be3/1..3;T3B;
+5;$BE2A02/1;EVER VISITED Shanghai Disney Resort
         
 ]    
 [*do i=1:[999.#]:3][*set BaseNo=999.i]

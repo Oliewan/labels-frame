@@ -1,8 +1,7 @@
-
 start control,
 * Study  Sheet1
 oldnames,tidy,oldwq,charset=double,nolsum,
-c= xx.dat,
+c= 0419.dat,
 o=..\output\xxxxx.tab,
 CEP,
 CSV2,

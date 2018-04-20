@@ -1,273 +1,141 @@
-[*set q='S1']
+[*set q='AGE']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='S2']
+[*set q='Q0']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='S3']
+[*set q='BE2A01']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='S4']
+[*set q='BE2A02']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B1']
+[*set q='BE2A03']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B201']
+[*set q='BE3']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B202']
+[*set q='POP1']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B4']
+[*set q='Q5d']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B8']
+[*set q='NEWS1']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B5']
+[*set q='GENDER']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B6']
+[*set q='INCOME']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B30201']
+[*set q='LOCALRES']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      t#[q]=$t[q]*$h[h],
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]
 
 
-[*set q='B30202']
+[*set q='QMSTA']
   [*for b=1]
   [*for h=1]
     if $bb[b]/nb, then,
       t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='B30203']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='B30204']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='B30205']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='B30206']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='B30207']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='B30208']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='B30209']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='C4']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='F1']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='F2']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='D403']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
-    endif,
-  [*end h]
-  [*end b]
-
-
-[*set q='D307']
-  [*for b=1]
-  [*for h=1]
-    if $bb[b]/nb, then,
-      t#[q][&b][h]=$t[q]*$h[h],
-      bt='b[b].[Base[b]]',
+      bt='value[b].[Base[b]]',
     endif,
   [*end h]
   [*end b]

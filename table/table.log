@@ -1,7 +1,7 @@
   
 = ----- 2015/2/1 星期日 下午 15:57:38
 = MRDCL version 2011.1 Startup
-= E:\快决测\工具\SPSS标签&框架\stp\table.stp
+= E:\QD\tools\labels-frame\table\table.stp
 = Copyright 1990 - 2009 MRDC Software, Kent, England
   CEP
   CSV 2002 style
@@ -9,7 +9,7 @@
   OLDNAMES
   OLDWQ
   TIDY
-  C(A)=E:\快决测\工具\SPSS标签&框架\stp\TEST.DAT
+  C(A)=E:\QD\tools\labels-frame\table\0419.DAT
   OUTPUT=..\OUTPUT\XXXXX.TAB
   CHARSET=DOUBLE
 = MRDCL version 2011.1 startup completed
@@ -18,107 +18,31 @@
 = MRDCL compilation phase startup
   Starting compilation
 = Stage 1 (data)
->>MRDCL 2011.1 Error number 0117
->>The following file is empty.
->>E:\快决测\工具\SPSS标签&框架\stp\define.stp
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 302 Variable referenced before definition
->>F 542 Wrong number of items in text
->>F 302 Variable referenced before definition
->>F 542 Wrong number of items in text
->>F 311 Reference to variable value out of range
->>F 542 Wrong number of items in text
->>F 311 Reference to variable value out of range
->>MRDCL 2011.1 Error number 0306
->>Faulty use of PP loop command or loop level faulty.
->>*DO
->>The last few characters parsed by PP were {**mmmmm<c><S>',[*data B1R(;)=][*set Q='B1']dm $t[Q]=$[Q]/[*do i=1:[[Q]R --> B1 <-- .#]/ --> 1 <-- 2]}
->>Error occurred at line 76, position 33 in stub.stp
->>      Called from line 20, position 16 in E:\快决测\工具\SPSS标签&框架\stp\table.stp
-  PP values are as follows
-   Entered PP code at line 76, position 14 in stub.stp
-   Entered command at line 76, position 24 in stub.stp
-   *DO i, current time round is 1, started in substituted text at position 0
-   ttl is a data set with 19 items
-   i = 1
-   a is NULL
-   S1R is a data set with 19 items
-   Q = "B1"
-   S2R is a data set with 7 items
-   S3R is a data set with 15 items
-   S4R is a data set with 19 items
-   B1R is a data set with 1 items
+= Stage 2 (tables)
 = MRDCL compilation phase completed
->>CL run failed and aborted
+  
+= ----- 2015/2/1 星期日 下午 15:57:38
+= MRDCL execution phase startup
+= Stage 1 (data)
+  Now opening file (A) number 1
+  E:\QD\tools\labels-frame\table\0419.DAT
+=  Data lines read 345
+=  Records 345
+  Number of times reached finish data 345
+  Write commands rejected 0
+  Write commands accepted 345
+  IDF records 345
+= Stage 2 (tables)
+  Records to be read 345
+  Passes needed 1
+= MRDCL execution phase completed
+  
+= ----- 2015/2/1 星期日 下午 15:57:38
+= MRDCL print phase startup
+= MRDCL print phase completed
+= CL run completed
+  Data lines read 345
+  IDF data records 345
+  Table pages 13
   
 = ----- 2015/2/1 星期日 下午 15:57:38
